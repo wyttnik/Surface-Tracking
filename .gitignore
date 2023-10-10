@@ -13,6 +13,7 @@ captures/
 .externalNativeBuild/
 .cxx/
 *.apk
+*.ap_
 output.json
 
 # IntelliJ
@@ -31,3 +32,11 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
